@@ -1,0 +1,4 @@
+membership_no,full_name,father's_name,grandfather's_name,email,date-of-birth
+VOC-0001,Aiko Tanaka,Hiro Tanaka,Kenji Tanaka,aiko.tanaka@example.com,1990-04-12
+VOC-0002,Wanjiru Kamau,Peter Kamau,John Kamau,wanjiru.kamau@example.com,1988-11-02
+VOC-0003,Samuel Otieno,James Otieno,Paul Otieno,samuel.otieno@example.com,1995-07-23
